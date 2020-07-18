@@ -25,7 +25,3 @@ body {
 .text-bright {
   color: var(--lightBlue);
 }
-
-button {
-  color: var(--mainYellow)
-}
